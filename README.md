@@ -1,5 +1,11 @@
-### Hi There 🙋‍♂️
-<hr />
+# About this project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abkarim&layout=compact)](https://github.com/abkarim/github-readme-stats)
-<br />
+#### In Development
+
+This is going be my portfolio page and a blog site (Without any cost).
+
+## Tech
+
+- Github Page - domain and static frontend hosting (Free)
+- Netlify - api server (Free)
+- MongoDB - database (Free)
